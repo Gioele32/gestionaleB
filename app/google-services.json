@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "296533507143",
+    "firebase_url": "https://gestionalebriscola.firebaseio.com",
+    "project_id": "gestionalebriscola",
+    "storage_bucket": "gestionalebriscola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296533507143:android:87d863fbc29908d4",
+        "android_client_info": {
+          "package_name": "com.example.gestionalebriscola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296533507143-4o5mae80laits5doel630lrqj218gfc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestionalebriscola",
+            "certificate_hash": "d92957e1509ce83274b5bfea8bd8ad2151778491"
+          }
+        },
+        {
+          "client_id": "296533507143-lchqrmoq5rnc56av3uu5fssb6ma7nnu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDp-lSSAmpfS7NIJR7cpnj-FW_zkXiGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296533507143-lchqrmoq5rnc56av3uu5fssb6ma7nnu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
